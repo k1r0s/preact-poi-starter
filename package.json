@@ -9,7 +9,7 @@
     "test": "echo \"Are you kidding me??!?!\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "yourname",
   "license": "ISC",
   "dependencies": {
     "preact": "^8.2.7"
